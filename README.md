@@ -44,5 +44,5 @@ Under these Conditions:
 * Same license
 
 
-**&copy Copyright Aperture OS 2025**
+**&copy; Copyright Aperture OS 2025**
 **Must Include the Copyright notice in any fork!**
