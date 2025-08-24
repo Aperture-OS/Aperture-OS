@@ -16,4 +16,11 @@ Aperture OS also features its own graphical installer, **Pulse**, built on *Cala
 1. Compiling Linux From Scratch
 2. No Changelog Yet
 
-### 
+### To-Do List
+
+- Add Pacman
+- Install Yay
+- Make Pulse (Installer)
+- Make Blink (Package Manager Helper)
+- Optimize
+- *More to come*
