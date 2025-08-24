@@ -25,3 +25,20 @@ Aperture OS also features its own graphical installer, **Pulse**, built on *Cala
 - Make Blink (Package Manager Helper)
 - Optimize
 - *More to come*
+
+
+### License
+Aperture OS is released under GPL 3.0, which grants the following permissions:
+* Commercial use
+* Modification
+* Distribution
+* Patent use
+* Private use
+Under these Conditions:
+* License and copyright notice
+* State changes
+* Disclose source
+* Same license
+
+**&copy Copyright Aperture OS 2025**
+**Must Include the Copyright notice in any fork!**
