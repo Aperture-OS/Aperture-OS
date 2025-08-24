@@ -9,6 +9,7 @@ Aperture OS also features its own graphical installer, **Pulse**, built on *Cala
 ### Status
 
 **🚧   Work In Progress**
+
 **v0.0.0**
 
 ### Changelog
