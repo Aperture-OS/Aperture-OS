@@ -19,7 +19,7 @@ Aperture OS also features its own graphical installer, **Pulse**, built on *Cala
 
 ### To-Do List
 
-- Develop the Logo
+- Make an IRC Server
 - Develop the Discord Server
 - Develop the Website and Documentations
 - Develop Blink (Package Manager)
