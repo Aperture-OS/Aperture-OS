@@ -20,9 +20,9 @@ Aperture OS also features its own graphical installer, **Pulse**, built with *GT
 
 ### To-Do List
 
-- Make an IRC Server
+- ~~Make an IRC Server~~
 - Develop the Discord Server
-- Develop the Website and Documentations
+- ~~Develop the Website~~ and Documentations
 - Develop Blink (Package Manager)
 - Develop Pulse (Installer)
 - Optimize
