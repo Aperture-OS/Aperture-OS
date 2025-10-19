@@ -1,6 +1,6 @@
 ### Aperture OS
 
-Aperture OS is my first Linux distribution, created as a hobby project with the goal of becoming production-ready in the future. It is built entirely from scratch using the Linux From Scratch book.
+Aperture OS is my first distro, created with the goal of becoming production-ready in the future. It is built entirely from scratch using the Linux From Scratch book.
 
 The distribution focuses on user-friendliness and simplicity, while still offering flexibility and full user-choice. It uses *Blink as the package managers, with my own package repository composed on Tar Archives with prebuilt packages which, upon installation, will get untarred and the files inside it will get moved in the right directories.
 
