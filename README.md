@@ -15,8 +15,7 @@ Aperture OS also features its own graphical installer, **Pulse**, built with *GT
 
 ### Changelog
 
-1. Learning Go and making Blink (package manager)
-2. No Changelog Yet
+1. No Changelog Yet
 
 ### To-Do List
 
@@ -25,7 +24,6 @@ Aperture OS also features its own graphical installer, **Pulse**, built with *GT
 - ~~Develop the Website~~ and Documentations
 - Develop Blink (Package Manager)
 - Develop Pulse (Installer)
-- Optimize
 - *More to come*
 
 
