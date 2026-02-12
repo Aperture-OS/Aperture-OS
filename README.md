@@ -2,7 +2,7 @@
 
 Aperture OS is my first distro, created with the goal of becoming production-ready in the future. It is built entirely from scratch using the Linux From Scratch book as inspiration.
 
-The distribution focuses on user-friendliness and simplicity, while still offering flexibility and full user-choice. It uses *Blink* as the package manager, with my own package repository composed of recipes which tell Blink how to instaall a package.
+The distribution focuses on user-friendliness and simplicity, while still offering flexibility and full user-choice. It uses *Blink* as the package manager, with my own package repository composed of recipes which tell Blink how to install a package.
 
 Aperture OS also features its own graphical installer, **Pulse**, built with *GTK and GOlang*. Pulse gives users full control over their setup, from choosing the System Kernel and Bootloader to selecting a desktop environment or window manager, all through a guided, user-friendly interface. Tutorials and info boxes provide helpful tips, including the pros and cons of different choices, making the installation process fun and simple for everyone.
 
